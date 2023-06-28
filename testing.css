@@ -1,9 +1,9 @@
 /* some comment just to differentiate */
 
 .main {
-    color: blue;
+  color: blue;
 }
 
-.main {
-    color: #aaaaaa;
+.othermain {
+  color: #aaa;
 }
